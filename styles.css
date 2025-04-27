@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
-    background: #f2f2f2;
+    font-family: Abhaya-Libre, serif;
+    background: #101010;
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ input {
 button {
     width: 100%;
     padding: 10px;
-    background: #007BFF;
+    background: #3d0cad;
     border: none;
     color: white;
     font-size: 16px;
